@@ -11,6 +11,7 @@ public class Steps {
 	   System.out.println("Executed the given step");
 	   System.out.println("Testes com Git");
 	   System.out.println("Testes com Git e agora GitHub 2tentativa");
+	   System.out.println("Testes com Git e agora GitHub 3tentativa");
 	}
 
 	@When("^This is my first dummy when  step$")
