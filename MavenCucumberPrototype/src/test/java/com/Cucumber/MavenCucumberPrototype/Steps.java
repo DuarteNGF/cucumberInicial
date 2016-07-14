@@ -10,6 +10,7 @@ public class Steps {
 	public void this_is_my_first_dummy_given_step() throws Throwable {
 	   System.out.println("Executed the given step");
 	   System.out.println("Testes com Git");
+	   System.out.println("Testes com Git e agora GitHub");
 	}
 
 	@When("^This is my first dummy when  step$")
