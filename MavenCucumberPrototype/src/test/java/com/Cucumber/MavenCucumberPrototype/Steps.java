@@ -13,6 +13,7 @@ public class Steps {
 	   System.out.println("Testes com Git e agora GitHub 2tentativa");
 	   System.out.println("Testes com Git e agora GitHub 3tentativa");
 	   System.out.println("Primeiro teste a utilizar uma branch");
+	   System.out.println("Primeiro teste a utilizar uma eliminar a brach");
 	}
 
 	@When("^This is my first dummy when  step$")
